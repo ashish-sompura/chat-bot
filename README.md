@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # laravel-chat
 
 Build a chat app with Laravel, Vue.js and Pusher. Follow the tutorial [https://pusher.com/tutorials/chat-laravel](https://pusher.com/tutorials/chat-laravel)
@@ -76,3 +77,7 @@ and visit [http://localhost:8000/](http://localhost:8000/) to see the applicatio
 ## Acknowledgments
 
 * [Bootsnipp chat snippet](http://bootsnipp.com/snippets/featured/collapsible-chat-widget)
+=======
+# chat-bot
+This chat bot is developed in laravel
+>>>>>>> b52db3093524b109602a0143494fe68bf0e9f04e
